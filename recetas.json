@@ -1,0 +1,124 @@
+{
+  "recipes": [
+    {
+      "name": "Lomo Saltado",
+      "author": "Chef Ricardo Palacios",
+      "image_link": "https://www.comeperuano.pe/wp-content/uploads/2020/09/lomo-saltado-receta.jpg",
+      "recipe": [
+        "Corta la carne en tiras y sazónala con sal, pimienta y sillao.",
+        "Saltea la carne en una sartén con aceite caliente.",
+        "Agrega cebolla, tomate y ají amarillo en tiras.",
+        "Mezcla con papas fritas y acompaña con arroz blanco.",
+        "Sirve caliente con perejil fresco."
+      ]
+    },
+    {
+      "name": "Ceviche Peruano",
+      "author": "Chef Gabriela Torres",
+      "image_link": "https://www.comeperuano.pe/wp-content/uploads/2020/09/ceviche-peruano-receta.jpg",
+      "recipe": [
+        "Corta el pescado en cubos pequeños.",
+        "Exprime jugo de limón fresco sobre el pescado.",
+        "Agrega cebolla morada en plumas y ají limo picado.",
+        "Mezcla con sal, cilantro y un toque de pimienta.",
+        "Sirve con camote, choclo y cancha serrana."
+      ]
+    },
+    {
+      "name": "Arepas Venezolanas",
+      "author": "Chef Carolina Mendoza",
+      "image_link": "https://t2.rg.ltmcdn.com/es/posts/2/6/0/arepas_rellenas_venezolanas_20062_600.jpg",
+      "recipe": [
+        "Mezcla harina de maíz precocida con agua y sal.",
+        "Forma bolas y aplánalas en forma de discos.",
+        "Cocina en una plancha hasta que estén doradas.",
+        "Ábrelas por la mitad y rellena con queso, carne o pollo.",
+        "Sirve calientes."
+      ]
+    },
+    {
+      "name": "Chiles en Nogada",
+      "author": "Chef Alejandro Ramírez",
+      "image_link": "https://mexicotravelchannel.com.mx/wp-content/uploads/2021/08/chiles-en-nogada.jpg",
+      "recipe": [
+        "Rellena los chiles poblanos con picadillo de carne y frutas.",
+        "Báñalos con salsa de nuez cremosa.",
+        "Decora con granada fresca y perejil picado.",
+        "Sirve a temperatura ambiente.",
+        "Acompaña con tortillas de maíz."
+      ]
+    },
+    {
+      "name": "Feijoada Brasileña",
+      "author": "Chef Luana Silva",
+      "image_link": "https://www.recetasnestle.com.br/sites/default/files/srh_recipes/52f192fe9b0dc6d8c07aa228d7f2db3f.jpg",
+      "recipe": [
+        "Cocina frijoles negros en una olla grande.",
+        "Agrega chorizo, costilla y carne seca.",
+        "Incorpora ajo, cebolla y hojas de laurel.",
+        "Deja hervir hasta que la carne esté tierna.",
+        "Sirve con arroz blanco, naranjas y farofa."
+      ]
+    },
+    {
+      "name": "Ratatouille",
+      "author": "Chef Jean Dupont",
+      "image_link": "https://www.recetasnestle.com.pe/sites/default/files/srh_recipes/c9f5b5debf13f85c91f1ff2a89bda345.jpg",
+      "recipe": [
+        "Corta berenjena, calabacín y pimientos en rodajas.",
+        "Colócalos en una fuente en capas alternadas.",
+        "Prepara una salsa de tomate con ajo, cebolla y hierbas.",
+        "Vierte la salsa sobre las verduras.",
+        "Hornea hasta que estén tiernas."
+      ]
+    },
+    {
+      "name": "Shawarma de Pollo",
+      "author": "Chef Omar Khaled",
+      "image_link": "https://t2.rg.ltmcdn.com/es/posts/1/6/8/shawarma_de_pollo_28861_600.jpg",
+      "recipe": [
+        "Marina el pollo con yogur, ajo, comino y curry.",
+        "Cocina en una parrilla o sartén hasta dorar.",
+        "Corta en tiras delgadas.",
+        "Sirve en pan pita con lechuga, tomate y salsa de yogur.",
+        "Acompaña con papas fritas."
+      ]
+    },
+    {
+      "name": "Pad Thai",
+      "author": "Chef Supatra Wong",
+      "image_link": "https://t2.rg.ltmcdn.com/es/posts/3/2/5/pad_thai_52523_600.jpg",
+      "recipe": [
+        "Cocina los fideos de arroz en agua caliente.",
+        "Saltea con huevo, tofu y camarones.",
+        "Agrega brotes de soya y maní triturado.",
+        "Condimenta con salsa de pescado, azúcar y tamarindo.",
+        "Sirve con limón y cilantro."
+      ]
+    },
+    {
+      "name": "Falafel",
+      "author": "Chef Noura Hassan",
+      "image_link": "https://t1.rg.ltmcdn.com/es/posts/5/7/0/falafel_20075_600.jpg",
+      "recipe": [
+        "Remoja garbanzos y tritúralos con ajo, cebolla y perejil.",
+        "Forma bolitas y fríelas en aceite caliente.",
+        "Escúrrelas en papel absorbente.",
+        "Sirve en pan pita con ensalada y tahini.",
+        "Acompaña con pepinillos y hummus."
+      ]
+    },
+    {
+      "name": "Tiramisú",
+      "author": "Chef Alessandra Bianchi",
+      "image_link": "https://www.recetasnestle.com.mx/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/998d83f9cbb7a9e1f62f2cb88e58c57c.jpg",
+      "recipe": [
+        "Bate yemas con azúcar hasta blanquear.",
+        "Agrega queso mascarpone y mezcla bien.",
+        "Moja bizcochos en café fuerte.",
+        "Alterna capas de bizcochos y crema en un molde.",
+        "Espolvorea cacao en polvo antes de servir."
+      ]
+    }
+  ]
+}
